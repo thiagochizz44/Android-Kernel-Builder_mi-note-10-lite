@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "VantomKernel",
-      "repo": "https://github.com/devnoname120/kernel_xiaomi_sm6150",
-      "branch": "fifteen",
-      "device": "toco",
-      "defconfig": "toco_defconfig"
+      "repo": "https://github.com/thiagochizz44/android_kernel_motorola_sm6150",
+      "branch": "testv8s",
+      "device": "odessa",
+      "defconfig": "vendor/odessa_defconfig"
     },
     "withKernelSU": true,
     "withSUSFS": true,
